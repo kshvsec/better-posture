@@ -1,0 +1,4 @@
+phone notification
+remove dependency on python for desktop notification
+hide the process (cmd) window
+switch to subprocess to send commands
